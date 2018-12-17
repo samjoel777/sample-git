@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+This line is added by feature-b
+=======
+This line is added by feature-a
+>>>>>>> modified data.txt (feature-a)

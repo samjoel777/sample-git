@@ -1,3 +1,5 @@
 This is sample2.txt file
 
-This line is added bu development branch
+This line is added in development branch
+
+This line is added in feature-b
