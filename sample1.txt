@@ -1,3 +1,7 @@
 This is sample1.txt file
 
+<<<<<<< HEAD
 This line is added in master
+=======
+This line is added in development
+>>>>>>> development
